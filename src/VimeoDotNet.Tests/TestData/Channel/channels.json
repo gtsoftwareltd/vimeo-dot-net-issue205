@@ -221,42 +221,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/2577629",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/2577629",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/2577629/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/2577629",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/2577629",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/2577629/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Brussels, Belgium",
@@ -570,42 +572,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/139016019",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/139016019",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/139016019/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/139016019",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/139016019",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/139016019/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -919,42 +923,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/134850879",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/134850879",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/134850879/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/134850879",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/134850879",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/134850879/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -1163,42 +1169,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/47494848",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/47494848",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/47494848/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/47494848",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/47494848",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/47494848/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -1512,42 +1520,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/192106137",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/192106137",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/192106137/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/192106137",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/192106137",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/192106137/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -1876,42 +1886,44 @@
               "total": 6
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/123259942",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/123259942",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/123259942/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/123259942",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/123259942",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/123259942/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -2240,42 +2252,44 @@
               "total": 6
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/2068511",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/2068511",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/2068511/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/2068511",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/2068511",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/2068511/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Miami, FL, USA",
@@ -2589,42 +2603,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/80373170",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/80373170",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/80373170/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/80373170",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/80373170",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/80373170/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "M",
@@ -2884,42 +2900,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197626776",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197626776",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197626776/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197626776",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197626776",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197626776/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -3241,42 +3259,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/56996716",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/56996716",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/56996716/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/56996716",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/56996716",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/56996716/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Zürich, Schweiz",
@@ -3536,42 +3556,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197626295",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197626295",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197626295/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197626295",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197626295",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197626295/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -3885,42 +3907,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197626598",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197626598",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197626598/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197626598",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197626598",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197626598/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -4270,42 +4294,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/15350747",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/15350747",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/15350747/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/15350747",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/15350747",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/15350747/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "The Woodlands, TX, USA",
@@ -4619,42 +4645,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197625907",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197625907",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197625907/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197625907",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197625907",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197625907/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -4914,42 +4942,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/195682016",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/195682016",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/195682016/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/195682016",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/195682016",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/195682016/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -5209,42 +5239,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/66894918",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/66894918",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/66894918/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/66894918",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/66894918",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/66894918/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -5558,42 +5590,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197623035",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197623035",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197623035/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197623035",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197623035",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197623035/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -5943,42 +5977,44 @@
               "total": 6
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/8334039",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/8334039",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/8334039/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/8334039",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/8334039",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/8334039/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Madrid, España",
@@ -6320,42 +6356,44 @@
               "total": 6
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/134043118",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/134043118",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/134043118/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/134043118",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/134043118",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/134043118/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -6669,42 +6707,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197577266",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197577266",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197577266/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197577266",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197577266",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197577266/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -7025,42 +7065,44 @@
               "total": 6
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/134043118",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/134043118",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/134043118/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/134043118",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/134043118",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/134043118/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -7382,42 +7424,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/56996716",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/56996716",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/56996716/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/56996716",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/56996716",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/56996716/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Zürich, Schweiz",
@@ -7739,42 +7783,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/115928054",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/115928054",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/115928054/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/115928054",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/115928054",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/115928054/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",
@@ -8101,42 +8147,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/56996716",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/56996716",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/56996716/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/56996716",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/56996716",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/56996716/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "Zürich, Schweiz",
@@ -8396,42 +8444,44 @@
               "total": 1
             }
           },
-          "interactions": {
-            "follow": {
-              "added": false,
-              "added_time": null,
-              "uri": "/users/2433258/following/197617938",
-              "options": [
-                "GET",
-                "PUT",
-                "DELETE"
-              ]
-            },
-            "block": {
-              "uri": "/me/block/197617938",
-              "options": [
-                "PUT",
-                "DELETE"
-              ],
-              "added": false,
-              "added_time": null
-            },
-            "report": {
-              "uri": "/users/197617938/report",
-              "options": [
-                "POST"
-              ],
-              "reason": [
-                "inappropriate avatar",
-                "spammy",
-                "bad videos",
-                "creepy",
-                "not playing nice",
-                "impersonation",
-                "inappropriate job post"
-              ]
+          "interactions": [
+            {
+              "follow": {
+                "added": false,
+                "added_time": null,
+                "uri": "/users/2433258/following/197617938",
+                "options": [
+                  "GET",
+                  "PUT",
+                  "DELETE"
+                ]
+              },
+              "block": {
+                "uri": "/me/block/197617938",
+                "options": [
+                  "PUT",
+                  "DELETE"
+                ],
+                "added": false,
+                "added_time": null
+              },
+              "report": {
+                "uri": "/users/197617938/report",
+                "options": [
+                  "POST"
+                ],
+                "reason": [
+                  "inappropriate avatar",
+                  "spammy",
+                  "bad videos",
+                  "creepy",
+                  "not playing nice",
+                  "impersonation",
+                  "inappropriate job post"
+                ]
+              }
             }
-          }
+          ]
         },
         "location_details": {
           "formatted_address": "",

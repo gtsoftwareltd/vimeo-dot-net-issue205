@@ -409,42 +409,44 @@
           "total": 1
         }
       },
-      "interactions": {
-        "follow": {
-          "added": false,
-          "added_time": null,
-          "uri": "/users/2433258/following/115220313",
-          "options": [
-            "GET",
-            "PUT",
-            "DELETE"
-          ]
-        },
-        "block": {
-          "uri": "/me/block/115220313",
-          "options": [
-            "PUT",
-            "DELETE"
-          ],
-          "added": false,
-          "added_time": null
-        },
-        "report": {
-          "uri": "/users/115220313/report",
-          "options": [
-            "POST"
-          ],
-          "reason": [
-            "inappropriate avatar",
-            "spammy",
-            "bad videos",
-            "creepy",
-            "not playing nice",
-            "impersonation",
-            "inappropriate job post"
-          ]
+      "interactions": [
+        {
+          "follow": {
+            "added": false,
+            "added_time": null,
+            "uri": "/users/2433258/following/115220313",
+            "options": [
+              "GET",
+              "PUT",
+              "DELETE"
+            ]
+          },
+          "block": {
+            "uri": "/me/block/115220313",
+            "options": [
+              "PUT",
+              "DELETE"
+            ],
+            "added": false,
+            "added_time": null
+          },
+          "report": {
+            "uri": "/users/115220313/report",
+            "options": [
+              "POST"
+            ],
+            "reason": [
+              "inappropriate avatar",
+              "spammy",
+              "bad videos",
+              "creepy",
+              "not playing nice",
+              "impersonation",
+              "inappropriate job post"
+            ]
+          }
         }
-      }
+      ]
     },
     "location_details": {
       "formatted_address": "",
